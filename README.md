@@ -1,3 +1,5 @@
-# udemy-callback
+# Section 3 - Udemy JavaScript and TypeScript  
 ---
-Exercício da aula 73 do Curso JavaScript e TypeScript da Udemy
+## Functions JavaScript (avanced)
+- Callback Functions
+- Factory Functions
